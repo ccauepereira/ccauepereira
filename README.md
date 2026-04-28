@@ -1,4 +1,4 @@
-# ⚡ Cauê Pereira| Future DevOps
+# ⚡ Cauê Pereira | Future DevOps
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvankxs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
