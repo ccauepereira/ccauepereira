@@ -2,7 +2,7 @@
 
 <h1>
 Cauê <span style="color:#FF9100;">Pereira</span>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Do5GRTYvYjnJ6/giphy.gif" width="55px"/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6OXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Do5GRTYvYjnJ6/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hybmF0YmVzYWMxaTVmZzdpbzNrdTJmZGZ1amx2N3RsaWkxYmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fY0H0Zr5ybY1Yp2aU6/giphy.gif)" width="55px"/>
 </h1>
 
 <p>
