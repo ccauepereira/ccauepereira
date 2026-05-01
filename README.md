@@ -9,7 +9,7 @@ Cauê <span style="color:#FF9100;">Pereira</span>
 Ciência da Computação & Técnico em Informática
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF9100&size=22&center=true&vCenter=true&width=500&lines=Dattebayo!+Coding+my+way+to+Hokage;Future+DevOps+&+Security+Engineer;Construindo+o+Núcleo+Duro;Segurança+e+Infraestrutura" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hybmF0YmVzYWMxaTVmZzdpbzNrdTJmZGZ1amx2N3RsaWkxYmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fY0H0Zr5ybY1Yp2aU6/giphy.gif" />
 
 </div>
 
