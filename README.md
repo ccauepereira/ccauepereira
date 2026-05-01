@@ -1,43 +1,82 @@
-# ⚡ Cauê Pereira | Future DevOps & Security Engineer
+<div align="center">
 
-<p align="center">
-  <img src="https://www.google.com/search?q=naruto+vs+sasuke+gif+pixel&client=ms-android-samsung-ss&hs=MHop&sca_esv=e11ce942ef99a1b2&udm=2&biw=384&bih=715&sxsrf=ANbL-n7QZDy5PxLKYXACLsm1w0RV0_vyZw%3A1777645388082&ei=TLf0acDaBNqd1sQPoaHpgAc&oq=naruto+gif+pixel&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciEG5hcnV0byBnaWYgcGl4ZWwqAggCMgcQIxgnGMkCMgQQABgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB5I7yNQ6QhYsRpwA3gAkAEAmAGyAaABqQWqAQMwLjS4AQHIAQD4AQGYAgegAuEFwgIIEAAYgAQYogSYAwCIBgGSBwMzLjSgB_UJsgcDMC40uAfLBcIHBTItNC4zyAc0gAgA&sclient=mobile-gws-wiz-img#sv=CAMSVxoyKhBlLU5pTTNpN0JXWUhqUWhNMg5OaU0zaTdCV1lIalFoTToOUVR1eGZJU2RhQlFkek0gBCoXCgFzEhBlLU5pTTNpN0JXWUhqUWhNGAEwAUoECAEQAhgHIPW577cKSggQAhgBIAIoAQ" />
+<h1>
+Cauê <span style="color:#FF9100;">Pereira</span>
+<img src="https://raw.githubusercontent.com/MartinS-B/MartinS-B/master/naruto-running.gif" width="65px"/>
+</h1>
+
+<p>
+Ciência da Computação & Técnico em Informática
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FF9100&size=22&center=true&vCenter=true&width=500&lines=Dattebayo!+Coding+my+way+to+Hokage;Future+DevOps+&+Security+Engineer;Construindo+o+Núcleo+Duro;Segurança+e+Infraestrutura" />
+
+</div>
 
 ---
 
-### 📍 Sobre Mim
-Estudante de **Ciência da Computação** e **Técnico em Informática**. 
-Focado em arquitetura de sistemas, infraestrutura e segurança defensiva. Busco unir a base teórica da computação com a prática de proteção de dados e automação.
+<div align="center">
 
-### 🚀 Stack Atual (Core)
-- **Linguagens:** Java (POO) & C (Gestão de Memória).
-- **Segurança:** Sanitização de dados, Prevenção de Buffer Overflow e conformidade LGPD.
-- **Sistemas:** Administração de sistemas Linux e versionamento com Git.
+<img src="https://komarev.com/ghpvc/?username=vvankxs7&color=FF9100" />
 
-### 🔮 Roadmap (Future Tech)
-- **Cloud & Containers:** Docker, Kubernetes e AWS.
-- **DevSecOps:** Implementação de segurança automatizada em pipelines CI/CD.
+</div>
 
 ---
 
-### 🛠️ Toolbox
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+## 🦊 Sobre mim
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vvankxs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+Olá! Sou estudante de **Ciência da Computação** e **Técnico em Informática**. 
+
+Minha missão é dominar a base teórica e de algoritmos da computação e aplicar na prática de infraestrutura e segurança. Busco criar sistemas resilientes e à prova de falhas, sempre focando no "Núcleo Duro" do desenvolvimento.
 
 ---
 
-### 🤝 Contato
-<p align="left">
-  <a href="mailto:cauecpereira06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cauecpereira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## 🛠️ Toolbox (Tecnologias)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,linux,git,bash,docker" />
+
+</div>
+
+---
+
+## 📍 Status e Roadmap
+
+- 🏗️ **Core:** Java POO, Estruturas de Dados e Linguagem C (Gestão de Memória).
+- 🛡️ **Foco Hacker:** Sanitização de dados, proteção LGPD e segurança defensiva.
+- 🔮 **Futuras Tecnologias:** Cloud Computing, Kubernetes e DevSecOps.
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="mailto:cauecpereira06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/cauecpereira/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vvankxs7">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ✨ Objetivo
+
+Construir uma carreira sólida em **DevOps & Security**, unindo o conhecimento técnico de infraestrutura com a engenharia de software de alto nível.
+
+---
+
+<div align="center">
+
+<sub>🔥 "Eu não volto atrás na minha palavra... esse é o meu jeito ninja!"</sub>
+
+</div>
