@@ -1,15 +1,30 @@
-# ⚡ Cauê Pereira | Future DevOps
+# ⚡ Cauê Pereira | Future DevOps & Security Engineer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvankxs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
-### 📍 Status: Fase 1 - O Núcleo Duro (IFCE)
-Construindo a base do **Unifatecie Global System (UGS)** com foco em segurança defensiva e arquitetura de alto nível.
+---
 
-- 🏗️ **Core:** Java POO & C (Gestão de Memória).
-- 🛡️ **Foco Hacker:** Sanitização de dados, proteção LGPD e prevenção de Buffer Overflow.
-- 🚀 **Próximo Passo:** Dominar TypeScript e Front-end seguro (Fase 2).
+### 📍 Sobre Mim
+Olá! Sou estudante de **Ciência da Computação** e **Técnico em Informática**. 
+
+O meu foco é unir a base teórica e de algoritmos da Ciência da Computação com a parte prática de infraestrutura e segurança da informação, visando sistemas resilientes, escaláveis e protegidos contra vulnerabilidades.
+
+### 📍 Status: Fase 1 - O Núcleo Duro
+Construindo a base técnica com foco em arquitetura de alto nível e segurança defensiva:
+
+- 🏗️ **Core:** Java POO, Estruturas de Dados e Linguagem C (Gestão de Memória).
+- 🛡️ **Foco Hacker:** Sanitização de dados, prevenção de falhas de segurança e boas práticas de código.
+- 🚀 **Próximo Passo:** Aprofundamento em DevOps, infraestrutura em nuvem e automação.
+
+---
+
+### 🔮 Futuras Tecnologias (Roadmap de Aprendizado)
+Expandindo o conhecimento para infraestrutura moderna e ambientes seguros:
+
+- ☁️ **Cloud & Containers:** Docker, Kubernetes e AWS.
+- 🔒 **Cybersecurity & DevSecOps:** Automação de segurança e análise de vulnerabilidades.
 
 ---
 
