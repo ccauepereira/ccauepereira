@@ -76,7 +76,4 @@ Construir uma carreira sólida em **DevOps & Security**, unindo o conhecimento t
 ---
 
 <div align="center">
-
-<sub>🔥 "Eu não volto atrás na minha palavra... esse é o meu jeito ninja!"</sub>
-
 </div>
