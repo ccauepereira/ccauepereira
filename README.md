@@ -1,7 +1,7 @@
 # ⚡ Cauê Pereira | Future DevOps & Security Engineer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R3Z3R4Z3R3Z3R4Z3R3Z3R4Z3R3Z3R4Z3R3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Do5GRTYdQ3vBC/giphy.gif" width="600" alt="Naruto GIF" />
+  <img src="https://www.google.com/search?q=naruto+vs+sasuke+gif+pixel&client=ms-android-samsung-ss&hs=MHop&sca_esv=e11ce942ef99a1b2&udm=2&biw=384&bih=715&sxsrf=ANbL-n7QZDy5PxLKYXACLsm1w0RV0_vyZw%3A1777645388082&ei=TLf0acDaBNqd1sQPoaHpgAc&oq=naruto+gif+pixel&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciEG5hcnV0byBnaWYgcGl4ZWwqAggCMgcQIxgnGMkCMgQQABgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB5I7yNQ6QhYsRpwA3gAkAEAmAGyAaABqQWqAQMwLjS4AQHIAQD4AQGYAgegAuEFwgIIEAAYgAQYogSYAwCIBgGSBwMzLjSgB_UJsgcDMC40uAfLBcIHBTItNC4zyAc0gAgA&sclient=mobile-gws-wiz-img#sv=CAMSVxoyKhBlLU5pTTNpN0JXWUhqUWhNMg5OaU0zaTdCV1lIalFoTToOUVR1eGZJU2RhQlFkek0gBCoXCgFzEhBlLU5pTTNpN0JXWUhqUWhNGAEwAUoECAEQAhgHIPW577cKSggQAhgBIAIoAQ" />
 </p>
 
 ---
