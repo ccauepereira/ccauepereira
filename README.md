@@ -9,7 +9,7 @@ Cauê <span style="color:#FF9100;">Pereira</span>
 Ciência da Computação & Técnico em Informática
 </p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hybmF0YmVzYWMxaTVmZzdpbzNrdTJmZGZ1amx2N3RsaWkxYmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fY0H0Zr5ybY1Yp2aU6/giphy.gif" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hybmF0YmVzYWMxaTVmZzdpbzNrdTJmZGZ1amx2N3RsaWkxYmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fY0H0Zr5ybY1Yp2aU6/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y4eXR1Y2djOGtwcGJvcWM5MmE2a2V4dWw4bmx4ejR5am5tZm40ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Lc5xmvzRhlLy/giphy.gif)" />
 
 </div>
 
