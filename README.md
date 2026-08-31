@@ -1,120 +1,111 @@
-# Cauê Pereira
+<div align="center">
 
-```bash
-caue@ubuntu:~$ whoami
+<br>
 
-Computer Science undergraduate & IT student at IFCE — Maracanaú
-Software Developer focused on Backend Engineering, APIs and Data/AI
-```
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=46&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=750&height=65&lines=CAU%C3%8A+PEREIRA"
+alt="Cauê Pereira"
+/>
 
-I build software with a strong interest in the intersection between **software engineering, backend systems, data and artificial intelligence**.
+<br>
 
-Currently, I'm focused on improving my skills in **backend development**, while gradually exploring **data engineering, LLMs, computer vision and AI-driven systems**.
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=750&height=24&lines=COMPUTER+SCIENCE+UNDERGRADUATE+%26+IT+STUDENT+AT+IFCE"
+alt="Computer Science undergraduate and IT student at IFCE"
+/>
 
----
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=850&height=26&lines=BUILDING+SOFTWARE+AT+THE+INTERSECTION+OF+BACKEND,+DATA+AND+AI."
+alt="Backend, Data and AI"
+/>
 
-## `~/about`
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=32&lines=SOFTWARE+ENGINEERING;BACKEND+DEVELOPMENT;DATA+%26+ARTIFICIAL+INTELLIGENCE;LARGE+LANGUAGE+MODELS;COMPUTER+VISION"
+alt="Areas of interest"
+/>
+
+<br><br>
+
+`software developer` · `linux user` · `always learning`
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+### `> technology_stack`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,postgres,docker,linux,git,github" />
+
+<br><br>
+
+<sub>
+Java · Spring Boot · Python · FastAPI · C · PostgreSQL · Docker · Linux · Git
+</sub>
+
+<br><br><br>
+
+### `> currently_exploring`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+
+<br><br>
+
+`LLMs` · `Data Engineering` · `Computer Vision` · `PyTorch` · `OpenCV` · `YOLO` · `Cloud`
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+### `> stats`
+
+<br>
+
+<img
+height="160"
+src="https://github-readme-stats.vercel.app/api?username=ccauepereira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+/>
+
+<img
+height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccauepereira&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+### `> connect`
+
+<br>
+
+<a href="https://www.linkedin.com/in/cauecpereira/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="mailto:cauecpereira06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<a href="https://github.com/ccauepereira">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
 
 ```text
-Location        Brazil
-Institution     IFCE — Maracanaú
-Focus           Software Engineering · Backend · APIs · Data · AI
-Environment     Linux / Ubuntu
-Currently       Studying Backend, LLMs, Data and Computer Vision
+caue@ubuntu:~$ keep building.
 ```
 
----
-
-## `~/tech-stack`
-
-### Backend & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c" />
-</p>
-
-### Data & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,vscode,idea" />
-</p>
-
----
-
-## `~/currently-exploring`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-```text
-LLMs
-Data Engineering
-Computer Vision
-OpenCV
-PyTorch
-YOLO
-Cloud Computing
-AI-powered software
-3D Computer Vision
-```
-
-My goal is to understand how **software systems, data and AI** can work together in real applications.
-
----
-
-## `~/interests`
-
-```bash
-$ cat interests.txt
-
-Software Engineering
-Backend Engineering
-REST APIs
-Data & Artificial Intelligence
-Large Language Models
-Computer Vision
-3D Computing
-Cloud Computing
-```
-
----
-
-## `~/github-stats`
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ccauepereira&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccauepereira&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
-## `~/contact`
-
-<p>
-  <a href="mailto:cauecpereira06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/cauecpereira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Cauê%20Pereira-informational?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="http://lattes.cnpq.br/">
-    <img src="https://img.shields.io/badge/Lattes-Curriculum-informational?style=flat-square" />
-  </a>
-</p>
-
-```bash
-caue@ubuntu:~$ _
-```
+</div>
