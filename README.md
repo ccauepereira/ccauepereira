@@ -3,44 +3,45 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=46&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=750&height=65&lines=CAU%C3%8A+PEREIRA"
+src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=500&size=52&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=760&height=70&lines=CAU%C3%8A+PEREIRA"
 alt="Cauê Pereira"
 />
 
-<br>
-
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=750&height=24&lines=COMPUTER+SCIENCE+UNDERGRADUATE+%26+IT+STUDENT+AT+IFCE"
-alt="Computer Science undergraduate and IT student at IFCE"
-/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=850&height=26&lines=BUILDING+SOFTWARE+AT+THE+INTERSECTION+OF+BACKEND,+DATA+AND+AI."
-alt="Backend, Data and AI"
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=13&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=760&height=22&lines=COMPUTER+SCIENCE+UNDERGRADUATE+%26+IT+STUDENT+AT+IFCE"
+alt="Computer Science Undergraduate and IT Student at IFCE"
 />
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=32&lines=SOFTWARE+ENGINEERING;BACKEND+DEVELOPMENT;DATA+%26+ARTIFICIAL+INTELLIGENCE;LARGE+LANGUAGE+MODELS;COMPUTER+VISION"
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=14&duration=1&pause=999999&color=C9D1D9&center=true&vCenter=true&repeat=false&width=900&height=25&lines=BUILDING+SOFTWARE+AT+THE+INTERSECTION+OF+BACKEND,+DATA+AND+AI."
+alt="Building software at the intersection of Backend, Data and AI"
+/>
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=15&duration=2300&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=30&lines=SOFTWARE+ENGINEERING;BACKEND+DEVELOPMENT;DATA+%26+AI;LARGE+LANGUAGE+MODELS;COMPUTER+VISION"
 alt="Areas of interest"
 />
 
 <br><br>
 
-`software developer` · `linux user` · `always learning`
+<sub>
+Software Developer · Linux User · Always Learning
+</sub>
 
-<br><br>
+<br><br><br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br><br>
-
-### `> technology_stack`
+<img
+src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=23&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=400&height=38&lines=%3C+technology+stack+%2F%3E"
+alt="Technology Stack"
+/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,postgres,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,c,postgres,docker,linux,git,github&theme=dark" />
 
 <br><br>
 
@@ -50,62 +51,58 @@ Java · Spring Boot · Python · FastAPI · C · PostgreSQL · Docker · Linux �
 
 <br><br><br>
 
-### `> currently_exploring`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-
-<br><br>
-
-`LLMs` · `Data Engineering` · `Computer Vision` · `PyTorch` · `OpenCV` · `YOLO` · `Cloud`
-
-<br><br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br>
-
-### `> stats`
-
-<br>
-
 <img
-height="160"
-src="https://github-readme-stats.vercel.app/api?username=ccauepereira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=23&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=420&height=38&lines=%3C+currently+exploring+%2F%3E"
+alt="Currently Exploring"
 />
 
-<img
-height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccauepereira&layout=compact&theme=github_dark&hide_border=true"
-/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
 
 <br><br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<sub>
+LLMs · Data Engineering · Computer Vision · PyTorch · OpenCV · YOLO · Cloud
+</sub>
 
-<br>
+<br><br><br>
 
-### `> connect`
+<img
+src="https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=400&size=23&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=350&height=38&lines=%3C+connect+%2F%3E"
+alt="Connect"
+/>
 
 <br>
 
 <a href="https://www.linkedin.com/in/cauecpereira/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:cauecpereira06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+  <img
+    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/ccauepereira">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
 </a>
 
-<br><br>
+<br><br><br>
 
-```text
-caue@ubuntu:~$ keep building.
-```
+<img
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=12&duration=1700&pause=1000&color=8B949E&center=true&vCenter=true&width=500&height=25&lines=caue%40ubuntu%3A~%24+keep+building.;caue%40ubuntu%3A~%24+keep+learning."
+alt="Terminal"
+/>
+
+<br>
 
 </div>
